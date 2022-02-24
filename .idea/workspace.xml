@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7fe381-6185-4fe7-84cd-0b700cdbb22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inventory-management-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockproject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dashboard/staff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/nav.html" afterDir="false" />
-    </list>
+    <list default="true" id="2c7fe381-6185-4fe7-84cd-0b700cdbb22b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stock-management-system" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,6 +46,7 @@
       <workItem from="1645424781935" duration="7519000" />
       <workItem from="1645592003809" duration="503000" />
       <workItem from="1645598656874" duration="287000" />
+      <workItem from="1645600857391" duration="674000" />
     </task>
     <servers />
   </component>
