@@ -1,2 +1,1 @@
 # inventory-management-system
-- IMS
